@@ -1,3 +1,3 @@
 # Rozdělení bodů
-Jmeno Prijemni 100
-Jmeno Prijemni 100
+Martin Novan 100
+Rudolf Pažout 100
