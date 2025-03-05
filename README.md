@@ -30,7 +30,7 @@ Tento projekt představuje inteligentního robota pro hru "Battleships" (Námoř
   - Orientace (horizontální, vertikální)
 
 ## Výkon
-- Průměrný počet pokusů k vítězství: 45-55
+- Průměrný počet pokusů k vítězství: 45-55 proti sobě samému (~50% winrate)
 - Úspěšnost: >95% na standardní 10x10 mapě
 - Časová náročnost: <1s na tah
 
